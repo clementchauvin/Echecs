@@ -5,7 +5,7 @@ CASE_PER_LINE = 8
 SCREEN_SIZE = SIDE * CASE_PER_LINE
 
 
-#PARTIE 1 : LES REGLES DU JEU 
+#PARTIE 1 : LES REGLS DU JEU 
 class Mouvement:
     def __init__(self):
         self.selection = None  # Aucune pièce sélectionnée (on n'a pas encore cliqué)
